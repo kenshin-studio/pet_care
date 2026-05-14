@@ -1,0 +1,39 @@
+# Local Codex/app state
+.codex/
+
+# Generated output
+output/
+dist/
+build/
+coverage/
+
+# Dependencies
+node_modules/
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+*.seed
+
+# Environment and local overrides
+.env
+.env.*
+!.env.example
+*.local
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+
+# Temporary/error artifacts
+tmp/
+temp/
+*.tmp
+*.bak
+The string is missing the terminator*
